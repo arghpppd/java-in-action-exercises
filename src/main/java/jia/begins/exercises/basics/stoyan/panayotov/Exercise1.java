@@ -8,7 +8,7 @@ package jia.begins.exercises.basics.stoyan.panayotov;
  * To change this template use File | Settings | File Templates.
  */
 
- public class Sum1000 {
+ public class Exercise1 {
 
 
      public static void main(String[] args) {
